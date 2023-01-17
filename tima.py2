@@ -1,0 +1,3 @@
+names = ['TIMUR', 'muhammad', 'laziz', 'azizbek', 'shodijon']
+from random import choice
+print(choice(names))
